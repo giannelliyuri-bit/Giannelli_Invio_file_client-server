@@ -1,0 +1,2 @@
+Benvenuto nel sistema di consultazione!
+Questo è un file di prova per il server.
